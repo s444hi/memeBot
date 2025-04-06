@@ -1,2 +1,2 @@
 # memeBot
-Used Python to create a Discord Meme Bot
+I used Python to create a MemeBot on Discord that responds with memes when prompted with $meme. 
